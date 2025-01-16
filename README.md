@@ -1,7 +1,7 @@
 
 # Terneo Climate Integration for Home Assistant
 
-This integration allows Home Assistant users to control and monitor Terneo thermostats.
+This integration allows Home Assistant users to control and monitor Terneo thermostats (ru region).
 
 ## The author of the integration
 https://github.com/ishikht/ha-terneo-integration
