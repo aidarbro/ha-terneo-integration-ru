@@ -3,6 +3,9 @@
 
 This integration allows Home Assistant users to control and monitor Terneo thermostats.
 
+## The author of the integration
+https://github.com/ishikht/ha-terneo-integration
+
 ## Features
 
 - Control HVAC modes (Heat/Off).
