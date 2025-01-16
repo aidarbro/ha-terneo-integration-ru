@@ -5,8 +5,8 @@ import httpx
 
 from .models import TerneoTelemetry
 
-API_BASE_URL = "https://my.terneo.ua/api"
-API_V2_BASE_URL = "https://my.terneo.ua/api-v2"
+API_BASE_URL = "https://my.terneo.ru/api"
+API_V2_BASE_URL = "https://my.terneo.ru/api-v2"
 
 
 @dataclass
