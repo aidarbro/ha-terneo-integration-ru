@@ -1,7 +1,7 @@
 
-# Terneo Climate Integration for Home Assistant
+# Welrok Climate Integration for Home Assistant
 
-This integration allows Home Assistant users to control and monitor Terneo thermostats (ru region).
+This integration allows Home Assistant users to control and monitor Welrok thermostats.
 
 ## The author of the integration
 https://github.com/ishikht/ha-terneo-integration
@@ -14,12 +14,6 @@ https://github.com/ishikht/ha-terneo-integration
 - Supports multiple devices under one account.
 
 ## Installation
-
-### ~~HACS (Home Assistant Community Store)~~ (coming soon)
-
-~~1. Open HACS > Integrations > Explore & Add Repositories
-2. Search for "Terneo Climate Integration".
-3. Install the integration.~~
 
 ### Manual
 
