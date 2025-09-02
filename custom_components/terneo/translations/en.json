@@ -2,7 +2,7 @@
   "config": {
     "step": {
       "user": {
-        "title": "Terneo Climate Control",
+        "title": "Welrok Climate Control",
         "description": "Please enter your email and password:",
         "data": {
           "email": "Email",
