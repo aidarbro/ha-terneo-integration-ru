@@ -1,9 +1,9 @@
 {
   "config": {
-    "title": "Terneo Climate Control",
+    "title": "Welrok Climate Control",
     "step": {
       "user": {
-        "title": "Log in to your Terneo account",
+        "title": "Log in to your Welrok account",
         "description": "Please enter your email and password:",
         "data": {
           "email": "Email",
