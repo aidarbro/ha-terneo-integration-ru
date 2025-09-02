@@ -1,12 +1,12 @@
 {
     "domain": "terneo",
-    "name": "Terneo Climate Control",
-    "codeowners": ["@ishikht"],
+    "name": "Welrok Climate Control",
+    "codeowners": ["@aidarbro"],
     "config_flow": true,
     "dependencies": [],
-    "documentation": "https://github.com/ishikht/ha-terneo-integration",
+    "documentation": "https://github.com/aidarbro/ha-welrok-integration",
     "iot_class": "cloud_polling",
-    "issue_tracker": "https://github.com/ishikht/ha-terneo-integration/issues",
+    "issue_tracker": "https://github.com/aidarbro/ha-welrok-integration/issues",
     "requirements": [],
     "version": "0.1.5"
 }
